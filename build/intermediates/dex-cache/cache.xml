@@ -7,7 +7,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
-        sha1="61c227688d4f4eb922c5f00bba9381c33ca8fa1e">
+        sha1="1488be3da30f7b9e38216a0c169c07a977773879">
         <dex dex="/Users/Noah/AndroidStudioProjects/hw03-adding-another-dialog-segalgouldn/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d5c591bf9d641d5f527c7c23a6ee693a9d1899ba/classes.dex" />
     </item>
     <item
@@ -106,7 +106,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
-        sha1="32206f7ea99900472c5b0843209a63008c3afbee">
+        sha1="991103d01ad60717fe459fa9033af8c1bca93520">
         <dex dex="/Users/Noah/AndroidStudioProjects/hw03-adding-another-dialog-segalgouldn/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c2de5d08221f11632ad081ab15f9c39c35f66bba/classes.dex" />
     </item>
     <item

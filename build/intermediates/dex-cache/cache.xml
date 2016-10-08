@@ -2,22 +2,31 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="/Users/Noah/AndroidStudioProjects/hw03-adding-another-dialog-segalgouldn/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/Noah/.gradle/caches/modules-2/files-2.1/com.squareup/javawriter/2.1.1/67ff45d9ae02e583d0f9b3432a5ebbe05c30c966/javawriter-2.1.1.jar"
+        jumboMode="false"
         optimize="true"
         revision="24.0.0"
-        sha1="6f5c2a9115284d8028a6103bb188975d301e74a1">
-        <dex dex="/Users/Noah/AndroidStudioProjects/hw03-adding-another-dialog-segalgouldn/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d5c591bf9d641d5f527c7c23a6ee693a9d1899ba/classes.dex" />
+        sha1="67ff45d9ae02e583d0f9b3432a5ebbe05c30c966">
+        <dex dex="/Users/Noah/AndroidStudioProjects/hw03-adding-another-dialog-segalgouldn/app/build/intermediates/pre-dexed/androidTest/debug/javawriter-2.1.1_2c9a557c4ca569af1b79a0d3e7eeba4c9f6af686.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/Noah/AndroidStudioProjects/CriminalIntent/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/Noah/AndroidStudioProjects/hw03-adding-another-dialog-segalgouldn/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="24.0.0"
-        sha1="7bd7321682f2a8b3d9fbb9bc732017fd1f7f57f9">
-        <dex dex="/Users/Noah/AndroidStudioProjects/CriminalIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b979a3e6003d832416d7da85bb40e0178c64448f/classes.dex" />
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="/Users/Noah/AndroidStudioProjects/hw03-adding-another-dialog-segalgouldn/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.0.0_80d3adbaa8a3e423fe8237d20a6b167288a19d19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Noah/.gradle/caches/modules-2/files-2.1/com.google.android.apps.common.testing.accessibility.framework/accessibility-test-framework/2.0/7837f95bdff9f797003454247fef02b78d49ae75/accessibility-test-framework-2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7837f95bdff9f797003454247fef02b78d49ae75">
+        <dex dex="/Users/Noah/AndroidStudioProjects/hw03-adding-another-dialog-segalgouldn/app/build/intermediates/pre-dexed/androidTest/debug/accessibility-test-framework-2.0_e9cc163096ce0524969920b074f1fc97a71e736f.jar" />
     </item>
     <item
         is-multidex="true"
@@ -30,30 +39,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Noah/AndroidStudioProjects/CriminalIntent/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
-        <dex dex="/Users/Noah/AndroidStudioProjects/CriminalIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_162eb3b0b31178ad4c5dc533b1b88de461240073/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/Noah/AndroidStudioProjects/CriminalIntent/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
         sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
         <dex dex="/Users/Noah/AndroidStudioProjects/CriminalIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.1.0_efd6f93919f688b9c3f92b834b0b2533effd45e4/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Noah/AndroidStudioProjects/CriminalIntent/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
-        <dex dex="/Users/Noah/AndroidStudioProjects/CriminalIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.0.0_e041e1f5388fff1389093c6a38a008b86dd460e5/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -65,13 +56,31 @@
         <dex dex="/Users/Noah/AndroidStudioProjects/CriminalIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_bccd9bbcf4b9add01f9c0e4c6cf34515c6c59e88/classes.dex" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/Noah/AndroidStudioProjects/hw03-adding-another-dialog-segalgouldn/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/jars/classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/Noah/AndroidStudioProjects/hw03-adding-another-dialog-segalgouldn/app/build/intermediates/exploded-aar/com.android.support.test/exposed-instrumentation-api-publish/0.4.1/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="24.0.0"
-        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
-        <dex dex="/Users/Noah/AndroidStudioProjects/hw03-adding-another-dialog-segalgouldn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.0.0_80d3adbaa8a3e423fe8237d20a6b167288a19d19/classes.dex" />
+        sha1="e1d90a3498ab7a4b68ea6e936e71cf7f4e95453f">
+        <dex dex="/Users/Noah/AndroidStudioProjects/hw03-adding-another-dialog-segalgouldn/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test-exposed-instrumentation-api-publish-0.4.1_ec7deb396852f2567a7619806a08bff402a3eb76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Noah/AndroidStudioProjects/hw03-adding-another-dialog-segalgouldn/app/build/intermediates/exploded-aar/com.android.support.test/rules/0.4.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e4805433aedef15e73a7eedf7e3496eb4363a583">
+        <dex dex="/Users/Noah/AndroidStudioProjects/hw03-adding-another-dialog-segalgouldn/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test-rules-0.4.1_9a55c3b9f6b3c775c4450a5e7ea60b4e3457f952.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Noah/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/Users/Noah/AndroidStudioProjects/hw03-adding-another-dialog-segalgouldn/app/build/intermediates/pre-dexed/androidTest/debug/jsr305-2.0.1_e27bd2d7c4802fd5c2b9ef20f0a2d772b1405c6a.jar" />
     </item>
     <item
         is-multidex="true"
@@ -83,85 +92,40 @@
         <dex dex="/Users/Noah/AndroidStudioProjects/CriminalIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_e5a8e09a1075cd710561cf5679e4fd62a11d0a5c/classes.dex" />
     </item>
     <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/Users/Noah/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="24.0.0"
         sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
-        <dex dex="/Users/Noah/AndroidStudioProjects/CriminalIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_e5ad00a8cbdd61f0b8b8d7432c81a6a39b31089d/classes.dex" />
+        <dex dex="/Users/Noah/AndroidStudioProjects/hw03-adding-another-dialog-segalgouldn/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_e5ad00a8cbdd61f0b8b8d7432c81a6a39b31089d.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/Noah/AndroidStudioProjects/hw03-adding-another-dialog-segalgouldn/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/Noah/AndroidStudioProjects/hw03-adding-another-dialog-segalgouldn/app/build/intermediates/exploded-aar/com.android.support.test.espresso/espresso-contrib/2.2.1/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="24.0.0"
-        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
-        <dex dex="/Users/Noah/AndroidStudioProjects/hw03-adding-another-dialog-segalgouldn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.1.0_fdf464011ac654d6cde4e2d5566c4adb31913cdf/classes.dex" />
+        sha1="3a0fb44da5f5919b3fc86c9d1e103f59be5b58cf">
+        <dex dex="/Users/Noah/AndroidStudioProjects/hw03-adding-another-dialog-segalgouldn/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test.espresso-espresso-contrib-2.2.1_698ee6b1ce639e49ec2ba4521b3de9581783b9b6.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/Noah/AndroidStudioProjects/hw03-adding-another-dialog-segalgouldn/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/Noah/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-library/1.3/4785a3c21320980282f9f33d0d1264a69040538f/hamcrest-library-1.3.jar"
+        jumboMode="false"
         optimize="true"
         revision="24.0.0"
-        sha1="25e36ccd5971916a73ab75199d76eb68452944fa">
-        <dex dex="/Users/Noah/AndroidStudioProjects/hw03-adding-another-dialog-segalgouldn/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c2de5d08221f11632ad081ab15f9c39c35f66bba/classes.dex" />
+        sha1="4785a3c21320980282f9f33d0d1264a69040538f">
+        <dex dex="/Users/Noah/AndroidStudioProjects/hw03-adding-another-dialog-segalgouldn/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-library-1.3_f87803a5142ad2e61e8bf5311d1318c83103dd69.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/Noah/AndroidStudioProjects/CriminalIntent/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
-        <dex dex="/Users/Noah/AndroidStudioProjects/CriminalIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_a5b82bda69dd3917bae333c3347dafdd2f24d5a0/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/Users/Noah/AndroidStudioProjects/hw03-adding-another-dialog-segalgouldn/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="24.0.0"
         sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
-        <dex dex="/Users/Noah/AndroidStudioProjects/hw03-adding-another-dialog-segalgouldn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_1d8dc2622d9ee97cc78fcdc79463618d11904621/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Noah/AndroidStudioProjects/hw03-adding-another-dialog-segalgouldn/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
-        <dex dex="/Users/Noah/AndroidStudioProjects/hw03-adding-another-dialog-segalgouldn/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_1bfd1bf4b16f787cb5e4a248adef9912ea237d3e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Noah/AndroidStudioProjects/hw03-adding-another-dialog-segalgouldn/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
-        <dex dex="/Users/Noah/AndroidStudioProjects/hw03-adding-another-dialog-segalgouldn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_f498cb82758c97822f22237d3427ece92a5a5ffc/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Noah/AndroidStudioProjects/hw03-adding-another-dialog-segalgouldn/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
-        <dex dex="/Users/Noah/AndroidStudioProjects/hw03-adding-another-dialog-segalgouldn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_e188bc9e2b14f00c0e8107945180712db77071b5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Noah/AndroidStudioProjects/hw03-adding-another-dialog-segalgouldn/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
-        <dex dex="/Users/Noah/AndroidStudioProjects/hw03-adding-another-dialog-segalgouldn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_436e25392aa1e34d118f3b179b1a43ee99151834/classes.dex" />
+        <dex dex="/Users/Noah/AndroidStudioProjects/hw03-adding-another-dialog-segalgouldn/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.0.0_1d8dc2622d9ee97cc78fcdc79463618d11904621.jar" />
     </item>
     <item
         is-multidex="true"
@@ -173,13 +137,175 @@
         <dex dex="/Users/Noah/AndroidStudioProjects/CriminalIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_b2ba0ec633c8b2a192da9dcf2a438059f88c3415/classes.dex" />
     </item>
     <item
+        is-multidex="false"
+        jar="/Users/Noah/AndroidStudioProjects/hw03-adding-another-dialog-segalgouldn/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/Noah/AndroidStudioProjects/hw03-adding-another-dialog-segalgouldn/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.0.0_436e25392aa1e34d118f3b179b1a43ee99151834.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Noah/.gradle/caches/modules-2/files-2.1/javax.annotation/javax.annotation-api/1.2/479c1e06db31c432330183f5cae684163f186146/javax.annotation-api-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="/Users/Noah/AndroidStudioProjects/hw03-adding-another-dialog-segalgouldn/app/build/intermediates/pre-dexed/androidTest/debug/javax.annotation-api-1.2_849f1087542b6829a106b3846d2ad4857a9558c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Noah/AndroidStudioProjects/hw03-adding-another-dialog-segalgouldn/app/build/intermediates/exploded-aar/com.android.support.test.espresso/espresso-idling-resource/2.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="83e81537012f1975aa902eedbdb8da5aa515aea5">
+        <dex dex="/Users/Noah/AndroidStudioProjects/hw03-adding-another-dialog-segalgouldn/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test.espresso-espresso-idling-resource-2.2.1_b2b287b944271940a0c95fccb23ecde26576bf3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Noah/AndroidStudioProjects/hw03-adding-another-dialog-segalgouldn/app/build/intermediates/exploded-aar/com.android.support.test.espresso/espresso-core/2.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="25a72389e79fbac13f78412a4a6ffacc1cdb0673">
+        <dex dex="/Users/Noah/AndroidStudioProjects/hw03-adding-another-dialog-segalgouldn/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test.espresso-espresso-core-2.2.1_92a3f03069d336ab842d1e8b871757a5496e7e22.jar" />
+    </item>
+    <item
         is-multidex="true"
-        jar="/Users/Noah/AndroidStudioProjects/hw03-adding-another-dialog-segalgouldn/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jar="/Users/Noah/AndroidStudioProjects/CriminalIntent/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
+        sha1="7bd7321682f2a8b3d9fbb9bc732017fd1f7f57f9">
+        <dex dex="/Users/Noah/AndroidStudioProjects/CriminalIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b979a3e6003d832416d7da85bb40e0178c64448f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Noah/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="/Users/Noah/AndroidStudioProjects/hw03-adding-another-dialog-segalgouldn/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-core-1.3_af6c746aa1af772bf9a41b54616ce7f0007635c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Noah/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/Noah/AndroidStudioProjects/hw03-adding-another-dialog-segalgouldn/app/build/intermediates/pre-dexed/androidTest/debug/javax.inject-1_14430e84d5ed86669f0940e93cf6c8439b7451f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Noah/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-integration/1.3/5de0c73fef18917cd85d0ab70bb23818685e4dfd/hamcrest-integration-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5de0c73fef18917cd85d0ab70bb23818685e4dfd">
+        <dex dex="/Users/Noah/AndroidStudioProjects/hw03-adding-another-dialog-segalgouldn/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-integration-1.3_83bc7314eb5a25d298d75b6390226b6e86c9cfce.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Noah/AndroidStudioProjects/CriminalIntent/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/Noah/AndroidStudioProjects/CriminalIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_162eb3b0b31178ad4c5dc533b1b88de461240073/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Noah/AndroidStudioProjects/hw03-adding-another-dialog-segalgouldn/app/build/intermediates/exploded-aar/com.android.support.test/runner/0.4.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f607369e68cb756b3f8f523403e3d80433a68aa1">
+        <dex dex="/Users/Noah/AndroidStudioProjects/hw03-adding-another-dialog-segalgouldn/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test-runner-0.4.1_83414a4f347f7d31ed53f75b533770e8ada4eaed.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Noah/AndroidStudioProjects/CriminalIntent/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="/Users/Noah/AndroidStudioProjects/CriminalIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.0.0_e041e1f5388fff1389093c6a38a008b86dd460e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Noah/AndroidStudioProjects/hw03-adding-another-dialog-segalgouldn/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/Users/Noah/AndroidStudioProjects/hw03-adding-another-dialog-segalgouldn/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-8.1.0_fdf464011ac654d6cde4e2d5566c4adb31913cdf.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Noah/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/Noah/AndroidStudioProjects/CriminalIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_e5ad00a8cbdd61f0b8b8d7432c81a6a39b31089d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Noah/AndroidStudioProjects/hw03-adding-another-dialog-segalgouldn/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/Noah/AndroidStudioProjects/hw03-adding-another-dialog-segalgouldn/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.0.0_e188bc9e2b14f00c0e8107945180712db77071b5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Noah/AndroidStudioProjects/CriminalIntent/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/Noah/AndroidStudioProjects/CriminalIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_a5b82bda69dd3917bae333c3347dafdd2f24d5a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Noah/AndroidStudioProjects/hw03-adding-another-dialog-segalgouldn/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/Noah/AndroidStudioProjects/hw03-adding-another-dialog-segalgouldn/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_f498cb82758c97822f22237d3427ece92a5a5ffc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Noah/AndroidStudioProjects/hw03-adding-another-dialog-segalgouldn/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/Noah/AndroidStudioProjects/hw03-adding-another-dialog-segalgouldn/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_1bfd1bf4b16f787cb5e4a248adef9912ea237d3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Noah/AndroidStudioProjects/hw03-adding-another-dialog-segalgouldn/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
         sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
-        <dex dex="/Users/Noah/AndroidStudioProjects/hw03-adding-another-dialog-segalgouldn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.1.0_e592062350722c3dfb8d2b051e771d1f340fe44b/classes.dex" />
+        <dex dex="/Users/Noah/AndroidStudioProjects/hw03-adding-another-dialog-segalgouldn/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.1.0_e592062350722c3dfb8d2b051e771d1f340fe44b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Noah/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="/Users/Noah/AndroidStudioProjects/hw03-adding-another-dialog-segalgouldn/app/build/intermediates/pre-dexed/androidTest/debug/junit-4.12_1ce5aac08819d832a9fdb521882fa74631e4bd0b.jar" />
     </item>
     <item
         is-multidex="true"
